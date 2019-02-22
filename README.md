@@ -1,6 +1,6 @@
 # Homebrew Asterisk
 
-[![Build Status](https://travis-ci.org/adilinden/homebrew-asterisk.svg?branch=master)](https://travis-ci.org/adilinden/homebrew-asterisk)
+[![Build Status](https://travis-ci.org/adilinden-oss/homebrew-asterisk.svg?branch=master)](https://travis-ci.org/adilinden-oss/homebrew-asterisk)
 
 Forked from [leedm777/homebrew-asterisk] for my own personal use.
 
